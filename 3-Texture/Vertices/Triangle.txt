@@ -1,0 +1,20 @@
+﻿//header
+EBO:false
+UseColor:false
+UseTextCoord:true
+//end header
+//vertex
+-1.0 0.0 0.0
+-0.5 0.5 0.0
+-0.1 0.0 0.0
+//end vertex
+//textcoord
+0.0 0.0
+0.5 1.0
+1.0 0.0
+//path:data\awesomeface.tga
+//end textcoord
+//shader
+vertex:Shaders\shader.vert
+fragment:Shaders\shader.frag
+//end shader

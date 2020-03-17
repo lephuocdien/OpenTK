@@ -1,0 +1,20 @@
+﻿//header
+EBO:true
+UseColor:true
+//end header
+//vertex
+0.5 0.3 0.0
+0.5 0.2 0.0
+0.1 0.2 0.0
+0.1 0.3 0.0
+//end vertex
+//indicate
+0 1 3
+1 2 3
+//end indicate
+//color
+1.0 0.0 0.0
+0.0 1.0 0.0
+0.0 0.0 1.0
+0.2 0.1 0.3
+//end color

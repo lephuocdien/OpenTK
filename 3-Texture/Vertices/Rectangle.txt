@@ -1,0 +1,12 @@
+﻿//header
+EBO:false
+UseColor:false
+//end header
+//vertex
+0.1 0.0 0.0
+0.4 0.0 0.0
+0.4 -0.2 0.0
+0.1 -0.2 0.0
+0.1 0.0 0.0
+0.4 -0.2 0.0
+//end vertex

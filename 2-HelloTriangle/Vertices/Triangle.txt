@@ -1,0 +1,13 @@
+﻿//header
+EBO:false
+UseColor:false
+//end header
+//vertex
+-1.0 0.0 0.0
+-0.5 0.5 0.0
+-0.1 0.0 0.0
+//end vertex
+//shader
+vertex:Shaders\shader.vert
+fragment:Shaders\shader.frag
+//end shader

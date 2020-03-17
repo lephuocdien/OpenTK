@@ -1,0 +1,30 @@
+﻿//header
+EBO:true
+UseColor:true
+UseTextCoord:false
+//end header
+//vertex
+-0.5 -0.5 -0.5
+0.5 -0.5 -0.5
+0.5 -0.5 0.5
+-0.5 -0.5 0.5
+0.0 0.5 0.0
+//end vertex
+//indicate
+0 2 1
+0 2 3
+4 0 1
+4 1 2
+4 2 3
+4 3 0
+//end indicate
+//color
+1.0 0.0 0.0
+0.0 1.0 0.0
+0.0 0.0 1.0
+1.0 1.0 0.0
+//end color
+//shader
+vertex:Shaders\shaderPyramic.vert
+fragment:Shaders\shaderPyramic.frag
+//end shader
